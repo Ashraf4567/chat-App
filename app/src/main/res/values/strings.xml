@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="create_account">create_account</string>
+    <array name="categories">
+        <item>Sports</item>
+        <item>Music</item>
+        <item>Movies</item>
+    </array>
+</resources>
